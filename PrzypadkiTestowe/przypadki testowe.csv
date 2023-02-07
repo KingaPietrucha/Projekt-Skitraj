@@ -1,0 +1,11 @@
+ID;Title;Created By;;;;Priority;References;Section;;;Suite;Suite ID;;Updated By;
+C1;Zarejestrowanie użytkownika poprawnymi danymi jako osoba prywatna;Kinga Pietrucha;;;;High;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C2;Weryfikacja rejestracji bez danych;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C3;Zalogowanie użytkownika prywatnego poprawny danymi;Kinga Pietrucha;;;;High;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C4;Weryfikacja logowania bez danych;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C5;Weryfikacja logowania użytkownika bez hasła;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C6;Weryfikacja logowania bez adresu email;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C7;Dodanie opinii jako użytkownik zalogowany;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C8;Dodanie produktów do koszyka;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C10;Weryfikacja zapisania się do newsletter bez emaila;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;
+C11;Zapisanie się do newsletter z poprawnymi danymi;Kinga Pietrucha;;;;Medium;;Test Cases;;;Master;S1;;Kinga Pietrucha;

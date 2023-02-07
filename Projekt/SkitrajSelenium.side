@@ -1,0 +1,113 @@
+{
+  "id": "5a1b66e8-dc03-44c3-a6dd-d1d25226b475",
+  "version": "2.0",
+  "name": "ski",
+  "url": "https://skitraj.pl/",
+  "tests": [{
+    "id": "9fa2d143-d564-4f98-99d5-95c5e6995a8f",
+    "name": "ski",
+    "commands": [{
+      "id": "a543a933-2a40-423a-aaf2-8ed91ca08ac6",
+      "comment": "",
+      "command": "open",
+      "target": "https://skitraj.pl/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ef0bf508-9e0d-49f8-ba73-b582d38229df",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x832",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c063ae2c-c376-47e8-b100-3779799bd0c3",
+      "comment": "",
+      "command": "click",
+      "target": "id=newsletter_email",
+      "targets": [
+        ["id=newsletter_email", "id"],
+        ["name=email", "name"],
+        ["css=#newsletter_email", "css:finder"],
+        ["xpath=//input[@id='newsletter_email']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div[2]/div[5]/div/div/div/div/form/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ebce9a52-aa77-4d81-bc32-7d52598611bc",
+      "comment": "",
+      "command": "type",
+      "target": "id=newsletter_email",
+      "targets": [
+        ["id=newsletter_email", "id"],
+        ["name=email", "name"],
+        ["css=#newsletter_email", "css:finder"],
+        ["xpath=//input[@id='newsletter_email']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div[2]/div[5]/div/div/div/div/form/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": "kingaswiatek1@gmail.com"
+    }, {
+      "id": "8542158b-b03c-42af-83ca-ce8e7c72969a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.newsletter-accept_label",
+      "targets": [
+        ["css=.newsletter-accept_label", "css:finder"],
+        ["xpath=//div[@id='root']/div[2]/div[5]/div/div/div/div/form/div[3]/div/div/label", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/label", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "38354615-d898-4c34-b186-25167961bd26",
+      "comment": "",
+      "command": "click",
+      "target": "css=.footer_submit-button",
+      "targets": [
+        ["css=.footer_submit-button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div[2]/div[5]/div/div/div/div/form/div[3]/div/button", "xpath:idRelative"],
+        ["xpath=//form/div[3]/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Zapisz się!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dfeb9091-c645-4e4a-bfe5-63d989f1d8b8",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.footer_submit-button",
+      "targets": [
+        ["css=.footer_submit-button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div[2]/div[5]/div/div/div/div/form/div[3]/div/button", "xpath:idRelative"],
+        ["xpath=//form/div[3]/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Zapisz się!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "06be03b6-b789-4170-8729-4864de1b9dcd",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.footer_submit-button",
+      "targets": [
+        ["css=.footer_submit-button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div[2]/div[5]/div[2]/div/div/div/form/div[3]/div/button", "xpath:idRelative"],
+        ["xpath=//form/div[3]/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Zapisz się!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "8d6e24a9-3b91-4b31-acfc-f47ed5c22839",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9fa2d143-d564-4f98-99d5-95c5e6995a8f"]
+  }],
+  "urls": ["https://skitraj.pl/"],
+  "plugins": []
+}
