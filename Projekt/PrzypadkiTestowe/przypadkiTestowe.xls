@@ -1,0 +1,12 @@
+﻿sep=,
+"ID","Title","Created By","Created On","Priority","Section","Suite","Suite ID","Type","Updated By","Updated On"
+"C1","Zarejestrowanie użytkownika poprawnymi danymi jako osoba prywatna","Kinga Pietrucha","2/5/2023 11:56 AM","High","Test Cases","Master","S1","Other","Kinga Pietrucha","2/6/2023 8:04 PM"
+"C2","Weryfikacja rejestracji bez danych","Kinga Pietrucha","2/5/2023 12:08 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/6/2023 8:08 PM"
+"C3","Zalogowanie użytkownika prywatnego poprawny danymi","Kinga Pietrucha","2/5/2023 12:12 PM","High","Test Cases","Master","S1","Other","Kinga Pietrucha","2/7/2023 6:46 PM"
+"C4","Weryfikacja logowania bez danych","Kinga Pietrucha","2/5/2023 12:19 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/7/2023 6:53 PM"
+"C5","Weryfikacja logowania użytkownika bez hasła","Kinga Pietrucha","2/5/2023 12:22 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/6/2023 8:09 PM"
+"C6","Weryfikacja logowania bez adresu email","Kinga Pietrucha","2/5/2023 12:23 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/6/2023 8:09 PM"
+"C7","Dodanie opinii jako użytkownik zalogowany","Kinga Pietrucha","2/5/2023 1:09 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/7/2023 6:48 PM"
+"C8","Dodanie produktów do koszyka","Kinga Pietrucha","2/5/2023 1:36 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/6/2023 8:12 PM"
+"C10","Weryfikacja zapisania się do newsletter bez emaila","Kinga Pietrucha","2/6/2023 7:56 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/7/2023 6:49 PM"
+"C11","Zapisanie się do newsletter z poprawnymi danymi","Kinga Pietrucha","2/6/2023 8:00 PM","Medium","Test Cases","Master","S1","Other","Kinga Pietrucha","2/7/2023 6:50 PM"
