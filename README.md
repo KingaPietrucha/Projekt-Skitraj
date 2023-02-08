@@ -1,1 +1,1 @@
-## Projekt znajduje się w branch "TestPaln"
+## Projekt znajduje się w branches pt. "TestPlan"
