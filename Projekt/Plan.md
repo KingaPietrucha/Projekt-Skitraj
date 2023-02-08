@@ -1,6 +1,7 @@
 ### Test Plan – www.skitraj.pl
+Strona internetowa www.skitraj.pl świadczy usługi przechowywania rzeczy, wynajmowania pudełek do przechowywania oraz umożliwia sprzedaż produktów niezbędnych do przechowywania. 
 ## Wstęp
-Głównym celem testów jest sprawdzenie funkcjonalności.
+Głównym celem testów jest sprawdzenie funkcjonalności strony.
 ## Przedmioty testów:
 - 	Rejestracja
 - 	Logowanie
