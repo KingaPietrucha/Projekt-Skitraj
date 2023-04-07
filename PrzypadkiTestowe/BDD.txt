@@ -1,0 +1,7 @@
+Feature: Funkcjonalność – Logowanie do konta 
+Scenario: Użytkownik podając poprawne dane może zalogować się do konta
+Given użytkownik jest na stronie logowania
+When użytkownik wpisze istniejące dane w polu aktywnym : login i hasło
+And użytkownik naciśnie przycisk Zaloguj się
+Then użytkownik loguje się
+And użytkownik zostaje przekierowany na stronę główną 
